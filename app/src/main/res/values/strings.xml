@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FilmFarras</string>
+    <string name="movie">Movies</string>
+    <string name="tvshow">TV Shows</string>
+    <string name="title">Doctor Strange</string>
+    <string name="description">In an accident, Stephen Strange, a famous neurosurgeon, loses the ability to use his hands. He goes to visit the mysterious Ancient One to heal himself and becomes a great sorcerer under her tutelage.</string>
+    <string name="rating_score">7.8</string>
+    <string name="rating">Rating</string>
+    <string name="share_text">Segera nonton film %s di FilmFarras</string>
+    <string name="title_activity_detail_movie">Movie Info</string>
+    <string name="title_activity_detail_tv_show">Tv Show Info</string>
+    <string name="leading_actor">Leading Actor</string>
+    <string name="supporting_actor">Supporting Actor</string>
+    <string name="character_actor">Character Actor</string>
+    <string name="person">John Smith</string>
+    <string name="storyline">Storyline</string>
+    <string name="base_url_poster">https://image.tmdb.org/t/p/w342/%s</string>
+    <string name="stars">%s as %s</string>
+    <string name="share_title">Bagikan film ini ke teman-teman anda</string>
+    <string name="cinema">Cinema</string>
+    <string name="favorites">Favorites</string>
+    <string name="title_activity_favorites">List Favorite</string>
+    <string name="favorite_movie">Favorite Movie</string>
+    <string name="favorite_tvshow">Favorite TvShow</string>
+</resources>
